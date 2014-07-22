@@ -11,8 +11,9 @@ body {
     font-family: Helvetica, sans-serif;
 	position: relative;
     text-align: center;
-    background-color: #01121C;
+    background-color: #024c7c;
     height: 75px;
+    border-bottom: 5px solid #009afe;
 }
 
 h1 {
