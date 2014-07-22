@@ -1,0 +1,73 @@
+body {
+	margin: 0;
+	background-image: url('images/congruent.png');
+}
+
+#menubar-wrapper {
+	position: fixed;
+	top: 0;
+	padding-top: 10px;
+	margin-bottom: 50px;
+    font-size: 17px;
+    font-family: Helvetica, sans-serif;
+	position: relative;
+    text-align: center;
+    background-color: #01121C;
+    height: 75px;
+}
+
+h1 {
+	padding-left: 3em;
+	padding-bottom: 0;
+	margin-bottom: 0;
+	display: inline;
+	float: left;
+	color: white;
+}
+
+#menubar-wrapper ul {
+	margin-top: 32px;
+	right: 0;
+	float: right;
+}
+#menubar-wrapper li {
+	display: inline;
+	padding: 0 3em 0 0;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+
+}
+
+a:hover {
+	color: #3B8CFF;
+}
+
+p {
+	text-align: left;
+	padding-top: 20px;
+	max-width: 800px;
+	color: white;
+	font-size: 1.5em;
+	line-height: 1.25em;
+	display: block;
+	margin: 0 auto;
+	font-family: "Helvetica", sans-serif;
+
+
+}
+
+img {
+	padding: 0 0;
+	border: 4px solid white;
+    border-radius: 100%;
+    width: 300px;
+    height: 300px;
+}
+img.centered {
+    display: block;
+    margin: 0 auto;
+}
+ 
