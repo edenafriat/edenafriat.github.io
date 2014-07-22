@@ -1,6 +1,6 @@
 body {
 	margin: 0;
-	background-image: url('images/congruent.png');
+	background-image: url('images/triangular.png');
 }
 
 #menubar-wrapper {
@@ -35,13 +35,23 @@ h1 {
 	padding: 0 3em 0 0;
 }
 
+
 a {
 	text-decoration: none;
 	color: white;
 
 }
 
+#contactme {
+	color: black;
+	text-decoration: underline;
+}
+
 a:hover {
+	color: #3B8CFF;
+}
+
+#contactme:hover {
 	color: #3B8CFF;
 }
 
@@ -49,7 +59,7 @@ p {
 	text-align: left;
 	padding-top: 20px;
 	max-width: 800px;
-	color: white;
+	color: black;
 	font-size: 1.5em;
 	line-height: 1.25em;
 	display: block;
@@ -58,6 +68,9 @@ p {
 
 
 }
+
+
+
 
 img {
 	padding: 0 0;
