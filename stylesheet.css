@@ -5,7 +5,6 @@ body {
 
 #menubar-wrapper {
 	position: fixed;
-	top: 0;
 	padding-top: 10px;
 	margin-bottom: 50px;
     font-size: 17px;
@@ -54,6 +53,7 @@ a:hover {
 #contactme:hover {
 	color: #3B8CFF;
 }
+
 
 p {
 	text-align: left;
