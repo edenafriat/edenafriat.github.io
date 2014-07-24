@@ -1,6 +1,6 @@
 body {
 	margin: 0;
-	background-image: url('images/dark.png');
+	background-image: url('images/triangular.png');
 }
 
 #menubar-wrapper {
@@ -43,7 +43,7 @@ a {
 }
 
 #contactme {
-	color: white;
+	color: black;
 	text-decoration: underline;
 }
 
@@ -60,7 +60,7 @@ p {
 	text-align: left;
 	padding-top: 20px;
 	max-width: 800px;
-	color: white;
+	color: black;
 	font-size: 1.5em;
 	line-height: 1.25em;
 	display: block;
